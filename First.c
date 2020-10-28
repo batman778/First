@@ -1,4 +1,4 @@
-#include <Stdio>
+#include <Stdio.h>
 
 int main()
 {
